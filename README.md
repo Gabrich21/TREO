@@ -72,12 +72,3 @@ Ks=1-exp(-αΩ(S))
 
 Creative Commons Attribution 4.0 (CC BY 4.0)
 
-## Registro
-
-Se recomienda mantener control de versiones:
-
-- TREO v0.1
-- TREO v0.2
-- TREO v0.3
-
-y publicar cada versión en GitHub con fecha verificable.
